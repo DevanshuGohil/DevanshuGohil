@@ -6,7 +6,6 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/devanshugohil/)
 [![Email Badge](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail)](mailto:devanshu196@gmail.com)
 [![Location Badge](https://img.shields.io/badge/Location-Boston,%20MA-green?style=for-the-badge&logo=google-maps)](https://goo.gl/maps/Boston)
-[![Phone Badge](https://img.shields.io/badge/Phone-(857)%20398--5333-orange?style=for-the-badge&logo=whatsapp)](tel:+18573985333)
 
 </div>
 
