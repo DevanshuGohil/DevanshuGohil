@@ -173,7 +173,7 @@ me.say_hi()
 ## 📚 Education
 
 - **Master of Science in Software Engineering Systems** | *Northeastern University, Boston, MA*
-  - GPA: 3.9
+  - GPA: 3.92
   - Graduated: May 2025
   - Coursework: Generative AI, Deep Learning, Cloud Computing, Data Science, High Performance Computing for ML, Algorithms
 
